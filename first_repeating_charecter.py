@@ -1,4 +1,4 @@
-string=str(input("Enter any Thing : "))
+string=str(input("Enter any Thing : ")).replace(" ","")
 name=""
 for i in string:
     if i not in name:

@@ -1,4 +1,4 @@
-string=input()
+string=str(input("Enter any Thing : ")).replace(" ","")
 word = ""
 longest_word = ""
 
