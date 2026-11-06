@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-05T16:45:27.770Z",
+  "updatedAt": "2026-11-06T04:34:20.271Z",
   "problems": [
     {
       "frontendId": "3",
@@ -24,6 +24,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.py",
           "sha": "295dbb0edb8debe16178307bdb38fde9c34acf04",
           "lastSyncedAt": "2026-11-05T16:45:27.770Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "14",
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "problemName": "0014-longest-common-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+      "folderPath": "0014-longest-common-prefix/",
+      "readmePath": "0014-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0014-longest-common-prefix.py",
+          "path": "0014-longest-common-prefix/0014-longest-common-prefix.py",
+          "sha": "71c2f0804c195067e14c9d456e196d0648b7d72a",
+          "lastSyncedAt": "2026-11-06T04:34:20.271Z"
         }
       ]
     },
